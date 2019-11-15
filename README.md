@@ -1,4 +1,5 @@
 ## Ryan Timbrook (Graduate Student - Course Work Repository)
+**[LinkedIn Profile](https://www.linkedin.com/in/ryantimbrook/)**
 
 ## [Syracuse University, Masters of Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 
